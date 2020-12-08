@@ -3,9 +3,6 @@ remote_theme: 'epidrome/cover-card'
 
 # Title and tag line
 title: 'Andishdokht'
-.masthead__menu { 
-  color: red;
-}
 description: 'I am amazing.'
 
 # Images
